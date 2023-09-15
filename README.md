@@ -25,8 +25,8 @@ Hi there, my name is Bastien Gavioli, I'm French and I work as a web developer.
 ## Other
 
 ![](https://img.shields.io/badge/Java-informationals?style=flat&logo=Java&color=F80000&logoColor=fff)
-![](https://img.shields.io/badge/C-informationals?style=flat&logo=c&color=9DADBF&logoColor=fff)
-![](https://img.shields.io/badge/Python-informationals?style=flat&logo=Java&color=007396&logoColor=fff)
+![](https://img.shields.io/badge/%20-informationals?style=flat&logo=c&color=9DADBF&logoColor=fff)
+![](https://img.shields.io/badge/Python-informationals?style=flat&logo=python&color=007396&logoColor=fff)
 
 ## Professional status
 👨‍💻 Web developer in the French company [Lundi Matin)](https://www.lundimatin.fr/) (Montpellier, France)
