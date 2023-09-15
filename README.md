@@ -34,12 +34,17 @@ Hi there, my name is Bastien Gavioli, I'm French and I work as a web developer.
 ## Studies in IUT Montpellier-Sète
 
 ### 2020-2022 - DUT Informatique
+
 French Computer science degree in 2 years
+
 Linux Architecture, UML, Design Patterns, OOP, Data structures, unit testing, Human-Computer Interactions, Agile
 
 ### 2022-2023 Licence Professionnelle APIDAE
+
 1 more year in web development specialisation
+
 Equivalent to a European Bachelor's degree
+
 Analyse, UML, Design Patterns, OOP, Android, Frameworks, API REST, Databases, eXtrem Programming
 
 
